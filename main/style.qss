@@ -1,0 +1,18 @@
+QMainWindow {
+    background-color: #42ddfc;
+}
+
+QLabel {
+    font-family: "PlaywriteIN";
+    font-size: 32px;
+    color: #f2f5f5;
+}
+
+
+addWidget {
+    background-color: #f2f5f5;
+    color: #000000;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 18px;
+} 
